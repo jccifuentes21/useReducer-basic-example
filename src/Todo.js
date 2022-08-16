@@ -8,7 +8,6 @@ export const Todo = (props) => {
       <span style={{ color: props.todo.complete ? "#AAA" : "#000" }}>
         {props.todo.name}
       </span>
-      "
       <button
         onClick={() =>
           props.dispatch({
