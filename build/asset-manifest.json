@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useReducer-basic-example/static/css/main.d8f55758.css",
+    "main.js": "/useReducer-basic-example/static/js/main.ee383d26.js",
+    "index.html": "/useReducer-basic-example/index.html",
+    "main.d8f55758.css.map": "/useReducer-basic-example/static/css/main.d8f55758.css.map",
+    "main.ee383d26.js.map": "/useReducer-basic-example/static/js/main.ee383d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f55758.css",
+    "static/js/main.ee383d26.js"
+  ]
+}
